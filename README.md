@@ -5,6 +5,8 @@
 ## 연습 프로젝트
 - [VirtualJoystick.Unity](https://github.com/ChoiJiOne/VirtualJoystick.Unity)
   - 유니티를 이용한 Virtual Joystick 만들기 연습 프로젝트입니다.
+- [ChatUI.Unity](https://github.com/ChoiJiOne/ChatUI.Unity)
+  - 유니티를 이용한 채팅 UI 만들기 연습 프로젝트입니다.
 - [RTS.Unity](https://github.com/ChoiJiOne/RTS.Unity)
   - 유니티를 이용한 RTS 데모 만들기 연습 프로젝트입니다.
 
